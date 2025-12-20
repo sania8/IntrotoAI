@@ -13,4 +13,5 @@ The notebooks are described below and should be ran in the following order:<br><
 **2_SVM.ipynb**: contains the code for svm models and results.<br>
 **3_CNN.ipynb**: contains the code for cnn models and results.<br>
 **4_VGG16.ipynb**: contains the code for vgg16 models and results.
-**5_Requurements.txt**: Contains all the necessary libraries required for this project
+**Requurements.txt**: Contains all the necessary libraries required for this project
+**Preprocessed_images**: This folder is the dataset containing in total 6392 images 

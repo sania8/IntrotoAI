@@ -12,6 +12,6 @@ The notebooks are described below and should be ran in the following order:<br><
 **1_Data_Preprocessing.ipynb**: contains the code for data preprocessing,image downsizing, vector creation, standardization, pca. <br>
 **2_SVM.ipynb**: contains the code for svm models and results.<br>
 **3_CNN.ipynb**: contains the code for cnn models and results.<br>
-**4_VGG16.ipynb**: contains the code for vgg16 models and results.
-**Requurements.txt**: Contains all the necessary libraries required for this project
-**Preprocessed_images**: This folder is the dataset containing in total 6392 images 
+**4_VGG16.ipynb**: contains the code for vgg16 models and results.<br>
+**Requirements.txt**: Contains all the necessary libraries required for this project.<br>
+**Preprocessed_images**: This folder is the dataset containing in total 6392 images. 

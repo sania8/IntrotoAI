@@ -7,7 +7,7 @@ The study uses the **Ocular Disease Recognition (ODIR-5K)** dataset obtained fro
 
 Due to limit computational capacity, the notebook of this project was split into multiple notebooks so it could be run in parallel. In order to preserve the output of the ran cells, we decided
 to keep different notebooks, instead of merging everything into one and losing all information.
-
+Due to the volume of data the folder, github truncated and only 1000 samples are visible, if reader wants to run the file can clone the repository and all the files (6392) will be present inside the folder.
 The notebooks are described below and should be ran in the following order:<br><br>
 **1_Data_Preprocessing.ipynb**: contains the code for data preprocessing,image downsizing, vector creation, standardization, pca. <br>
 **2_SVM.ipynb**: contains the code for svm models and results.<br>
